@@ -10,3 +10,6 @@ section{
     display: flex;
     justify-content: center;
 }
+header{
+    margin: 40px;
+}
